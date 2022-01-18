@@ -10,7 +10,8 @@ Add some text here
 Sample website with plenty of files for demos
 
 ## Deployment 
-Adding some more text
+Adding some more text.
+Adding a line for rebasing example.
 
 ## How to contribute
 You can write anything
