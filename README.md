@@ -15,6 +15,7 @@ Adding some more text
 ## How to contribute
 You can write anything
 Literally.
+Please fork this repo.
 
 ###Copyright
 2022 Git.training
