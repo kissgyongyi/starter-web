@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 Adding some more text
 
 ## How to contribute
+You can write anything
+Literally.
