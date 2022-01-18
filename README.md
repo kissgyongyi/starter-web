@@ -15,3 +15,6 @@ Adding some more text
 ## How to contribute
 You can write anything
 Literally.
+
+###Copyright
+2022 Git.training
